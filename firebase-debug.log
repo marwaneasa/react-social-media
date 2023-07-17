@@ -1,0 +1,21 @@
+[debug] [2023-07-17T14:50:17.843Z] ----------------------------------------------------------------------
+[debug] [2023-07-17T14:50:17.847Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Dell\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-07-17T14:50:17.849Z] CLI Version:   12.4.4
+[debug] [2023-07-17T14:50:17.850Z] Platform:      win32
+[debug] [2023-07-17T14:50:17.850Z] Node Version:  v17.9.0
+[debug] [2023-07-17T14:50:17.852Z] Time:          Mon Jul 17 2023 15:50:17 GMT+0100 (GMT+01:00)
+[debug] [2023-07-17T14:50:17.853Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-07-17T14:50:17.913Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-07-17T14:50:17.919Z] > authorizing via signed-in user (mirouasa@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Dell\Documents\BUSINESSES\GoRent\Coding Phase\Learning MERN\socialmediapj
+
